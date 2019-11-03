@@ -1,4 +1,4 @@
-# Cursive_Numbers-
+# Cursive_Numbers
 A response to "Why aren't there cursive numbers?"
 
 Document6_1 is the system I've developed thus far.
